@@ -18,10 +18,10 @@ class DataEvent extends Event
      * @param mixed $owner the object associated with this event.
      * @param array $config name-value pairs that will be used to initialize the object properties
      */
-    public function __construct($config = [])
+    public function __construct($config =[], $params =[])
     {
-
         parent::__construct($config);
+        $this->params = $params;
     }
 
 }

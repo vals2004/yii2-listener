@@ -11,20 +11,20 @@ Installation
 "repositories": [
     {
         "type": "git",
-        "url": "https://github.com/yiicod/yii2-listener.git"
+        "url": "https://github.com/vals2004/yii2-listener.git"
     }  
 ],
 ```
 Either run
 
 ```
-php composer.phar require --prefer-dist yiicod/yii2-listener "*"
+php composer.phar require --prefer-dist vals2004/yii2-listener "*"
 ```
 
 or add
 
 ```json
-"yiicod/listener": "*"
+"vals2004/listener": "*"
 ```
 
 Config
@@ -34,7 +34,7 @@ Config
 'bootstrap' => ['eventManager'],
 'components' => [
         'eventManager' => [
-            'class' => 'yiicod\listener\components\EventManager'
+            'class' => 'vals2004\listener\components\EventManager'
         ],
 ]
 ```

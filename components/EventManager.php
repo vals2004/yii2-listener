@@ -1,6 +1,6 @@
 <?php
 
-namespace yiicod\listener\components;
+namespace vals2004\listener\components;
 
 use Yii;
 use yii\base\Component;

@@ -10,6 +10,9 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
     "autoload": {
         "psr-4": {
             "vals2004\\listener\\": ""

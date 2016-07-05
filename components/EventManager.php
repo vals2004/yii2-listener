@@ -1,5 +1,4 @@
 <?php
-
 namespace vals2004\listener\components;
 
 use Yii;

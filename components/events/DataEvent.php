@@ -1,6 +1,6 @@
 <?php
 
-namespace yiicod\listener\components\events;
+namespace vals2004\listener\components\events;
 
 use yii\base\Event;
 use yii\base\Object;

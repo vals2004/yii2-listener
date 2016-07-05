@@ -5,14 +5,14 @@
     "license": "New BSD License",
     "authors": [
         {
-            "name": "Alexey Orlov",
-            "email": "aaorlov88@gmail.com",
+            "name": "Valeriy Zavolodko",
+            "email": "vals2004@gmail.com",
             "role": "Developer"
         }
     ],
     "autoload": {
         "psr-4": {
-            "yiicod\\listener\\": ""
+            "vals2004\\listener\\": ""
         }
     }
 }

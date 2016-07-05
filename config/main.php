@@ -3,7 +3,7 @@
 return [
     'components' => [
         'eventManager' => [
-            'class' => 'yiicod\listener\components\EventManager',
+            'class' => 'vals2004\listener\components\EventManager',
             'events' => [],
         ],
     ]

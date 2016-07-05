@@ -1,7 +1,7 @@
 {
     "name": "vals2004/yii2-listener",
     "description": "The simple and powerful listener for the Yii2 framework",
-    "type": "yii-extension",
+    "type": "yii2-extension",
     "license": "New BSD License",
     "authors": [
         {
